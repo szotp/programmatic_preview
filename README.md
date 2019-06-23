@@ -5,3 +5,6 @@ This repository demonstrates how to develop UIKit apps while also using, introdu
 This repo also contains experimental UI methods that utilize @_functionBuilder added in the latest Swift release.
 
 ![login](/Images/login.png)
+
+Original idea comes from:
+https://www.avanderlee.com/xcode/xcode-previews/
